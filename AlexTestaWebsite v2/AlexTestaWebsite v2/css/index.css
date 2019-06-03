@@ -1,0 +1,86 @@
+.logo {
+    max-width: 20%;
+    margin-top: -1%;
+    float: left;
+}
+
+.photos {
+    width: 100%;
+}
+
+.post-container {
+  margin: 2% 0 2% 0;
+  overflow: auto
+}
+.post-thumb {
+  display: block
+}
+
+.post-thumb img {
+float: left
+}
+.post-content {
+  margin-left: 25%;
+}
+.post-title {
+  font-family: monospace;
+  font-size: 300%;
+  color: #2d3c49;
+}
+
+.line {
+    height: 5px;
+    width: auto;
+    background-color: #7d97ad;
+}
+
+.name {
+    padding: 1%;
+    text-align: right;
+    font-family: monospace;
+    font-size: 400%;
+    color: #2d3c49;
+}
+
+.occu {
+    font-size: 150%;
+    text-align: right;
+    font-family: monospace;
+    margin-right: 0.5%;
+    margin-bottom: 0.5%;
+    font-size: 200%;
+    color: #2d3c49;
+}
+
+.about {
+    font-size: 150%;
+    font-family: "Helvetica", sans-serif;
+    color: #2d3c49;
+}
+
+.interests {
+    font-family: monospace;
+    font-size: 300%;
+    color: #2d3c49;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 2%;
+}
+
+.line2 {
+    height: 5px;
+    width: auto;
+    background-color: #7d97ad;
+}
+
+.caption {
+    text-align: center;
+    font-size: 120%;
+    font-family: "Helvetica", sans-serif;
+}
